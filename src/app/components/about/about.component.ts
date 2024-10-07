@@ -12,7 +12,7 @@ export class AboutComponent {
   public uiData: HeaderData = {
     title: 'INFORMACIÓN',
     subtitle: 'Estos somos nosotros!',
-    thumbnail: 'assets/HP_TOTORO_Registration_2880x1620.webp'
+    thumbnail: 'https://media.vogue.es/photos/5ff05e472361f90ef2d5d967/4:3/w_2160,h_1620,c_limit/HP_TOTORO_Registration_2880x1620.jpg'
   }
 
   constructor(private headerService: HeaderService) {

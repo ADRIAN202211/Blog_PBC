@@ -3,7 +3,7 @@ author: Adrián Mendoza
 title: "La importancia del agua"
 subtitle: "Correcto cuidado"
 publicationDate: 2024-09-25-19:30:00
-thumbnail: '/assets/posts/la-importancia-del-agua/agua2.png'
+thumbnail: 'https://agua.org.mx/wp-content/uploads/2023/03/Captura-de-pantalla-2023-03-29-225314.png'
 slug: "la-importancia-del-agua"
 ---
 
@@ -20,7 +20,7 @@ Cuidar el agua no se limita solo a evitar su desperdicio, sino también a proteg
 
 El agua se utiliza de forma masiva en muchos procesos industriales y en la producción de alimentos. Por ejemplo, ¿sabías que por cada 4 litros de agua que consume una vaca, solo se produce 1 litro de leche? Esto pone en perspectiva la cantidad de agua necesaria para satisfacer la demanda de productos lácteos a nivel mundial. Otro ejemplo es la industria de las bebidas como gaseosas o jugos, que requiere millones de litros de agua al año. Estos ejemplos subrayan la necesidad urgente de mejorar la eficiencia en el uso del agua en todos los sectores.
 
-![Aguaclara](/assets/posts/la-importancia-del-agua/agua.webp)
+![Aguaclara](https://ideogram.ai/assets/image/lossless/response/7VaYpXbJS4aZIjY3pSGddw)
 
 ### Consecuencias de la falta de agua
 

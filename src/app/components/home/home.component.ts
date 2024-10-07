@@ -23,7 +23,7 @@ export class HomeComponent implements OnInit {
   private uiData: HeaderData = {
     title: ' Magia Digital ',
     subtitle: 'Habla con libertad sobre lo que quieras',
-    thumbnail:  'assets/Pisaje.jpeg'
+    thumbnail:  'https://preview.redd.it/x9yjxzyyxqp61.jpg?auto=webp&s=8c067063586279f76816dd8bed4a780e7495453a'
 
   }
 
